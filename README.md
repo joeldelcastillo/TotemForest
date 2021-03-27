@@ -8,3 +8,8 @@ Ejecuta el archivo TotemForest.exe.
 En el menu tiene algunas cosas que me falta implementar, para jugar solo aplasta play.
 
 Si quieres salir...
+
+![](a.jpg)
+![](b.jpg)
+![](c.jpg)
+![](d.jpg)
